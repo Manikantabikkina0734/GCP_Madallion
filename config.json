@@ -1,0 +1,18 @@
+{
+  "paths": {
+    "output_folder": "gs://project1-gcp1/",
+    "tracker_file": "gs://project1-gcp1/"
+  },
+  "data_settings": {
+    "num_rows_per_table": 5000
+  },
+  "bronze": {
+    "bronze_path": "gs://project1-gcp1/Bronze"
+  },
+  "silver": {
+    "silver_path": "gs://project1-gcp1/Silver"
+  },
+  "gold": {
+    "gold_path": "gs://project1-gcp1/Gold"
+  }
+}
