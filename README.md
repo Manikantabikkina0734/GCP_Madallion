@@ -16,7 +16,6 @@ bash
 git clone <repository-url>
 cd <repository-folder>
 ```
-bash
 
 Install Python Dependencies:
  Ensure Python 3.7+ is installed.
@@ -37,7 +36,6 @@ curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-
 tar -xzf google-cloud-cli-407.0.0-linux-x86_64.tar.gz
 ./google-cloud-sdk/install.sh
 ```
-bash
 
 Authenticate with Google Cloud:
 
